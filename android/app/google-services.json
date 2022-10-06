@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158541485068",
+    "project_id": "cantwait21150",
+    "storage_bucket": "cantwait21150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158541485068:android:4dd5f7fc962f63e25e4a29",
+        "android_client_info": {
+          "package_name": "com.majawocial.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158541485068-dl0t8p9u73o1ij29m0ja6ou8kqmn4nl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk3LGYEk3Ti2D_uuWHfxtd01esqtkq1FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158541485068-dl0t8p9u73o1ij29m0ja6ou8kqmn4nl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
